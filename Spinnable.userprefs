@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="Droid\Spinnable.Droid.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus_5_API_23_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Spinnable\Views\Pages\HomePage.cs">
+    <Files>
+      <File FileName="Spinnable\Views\Pages\EditProfilePage.cs" Line="67" Column="1" />
+      <File FileName="Spinnable\Views\Pages\LogInPage.cs" Line="57" Column="1" />
+      <File FileName="Spinnable\Classes\Languages\AppLanguages.cs" Line="41" Column="26" />
+      <File FileName="Spinnable\Classes\Languages\EnglishAppLanguage.cs" Line="33" Column="52" />
+      <File FileName="Spinnable\Classes\Languages\RussianAppLanguage.cs" Line="33" Column="51" />
+      <File FileName="Spinnable\ViewModels\Pages\EditProfileViewModel.cs" Line="85" Column="43" />
+      <File FileName="Spinnable\Views\MainPage.cs" Line="22" Column="1" />
+      <File FileName="Spinnable\Views\Pages\MainMenuPage.cs" Line="16" Column="1" />
+      <File FileName="Spinnable\Classes\PlatformHelper.cs" Line="137" Column="4" />
+      <File FileName="Droid\AndroidPlatformHelper.cs" Line="142" Column="24" />
+      <File FileName="Spinnable\Data\APIClient.cs" Line="12" Column="132" />
+      <File FileName="Spinnable\Data\User.cs" Line="69" Column="1" />
+      <File FileName="Spinnable\Data\BaseAPIData.cs" Line="48" Column="54" />
+      <File FileName="Spinnable\Classes\Messages\PopPageMessage.cs" Line="6" Column="1" />
+      <File FileName="Spinnable\Classes\Messages\UserUpdatedMessage.cs" Line="13" Column="43" />
+      <File FileName="Spinnable\ViewModels\Pages\ProfileViewModel.cs" Line="66" Column="52" />
+      <File FileName="Spinnable\Views\Pages\ProfilePage.cs" Line="160" Column="1" />
+      <File FileName="Spinnable\Data\Settings.cs" Line="27" Column="1" />
+      <File FileName="Spinnable\Classes\Commands\VisualCommand.cs" Line="51" Column="1" />
+      <File FileName="Spinnable\Classes\Messages\PushPageMessage.cs" Line="14" Column="1" />
+      <File FileName="Spinnable\Views\Lists\MainMenuList.cs" Line="29" Column="46" />
+      <File FileName="Spinnable\Views\Pages\HomePage.cs" Line="73" Column="4" />
+      <File FileName="Spinnable\Views\Pages\SignUpPage.cs" Line="121" Column="1" />
+      <File FileName="Spinnable\Views\Pages\FollowersPage.cs" Line="21" Column="62" />
+      <File FileName="Spinnable\Views\Pages\GalleryPage.cs" Line="21" Column="59" />
+      <File FileName="Spinnable\Views\Pages\SearchPage.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

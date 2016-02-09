@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Spinnable", "Spinnable\Spinnable.shproj", "{BDBED442-539C-45EE-B123-8A5B6EBDB82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinnable.Droid", "Droid\Spinnable.Droid.csproj", "{6BCC96E8-48C6-498E-A89E-1FE658978D44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCC96E8-48C6-498E-A89E-1FE658978D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCC96E8-48C6-498E-A89E-1FE658978D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCC96E8-48C6-498E-A89E-1FE658978D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCC96E8-48C6-498E-A89E-1FE658978D44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
